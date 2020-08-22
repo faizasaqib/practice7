@@ -1,0 +1,25 @@
+body {
+	background-image:url("images.jpg");
+	background-size:cover;
+}
+.box{
+	width:600px;
+	height:350px;
+	margin:50px auto;
+	border: 10px dashed green;
+	background-color:white;
+	background-size:cover;
+	background-attachment:scroll;
+	overflow:auto;
+}
+.box h1{
+	font-size:35px;
+	color:blue;
+	
+	
+}
+.box p{
+	font-size:20px;
+	color:red;
+	float:center-right;
+}
